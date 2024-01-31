@@ -8,7 +8,7 @@ To build the project template with CMake and link raylib, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sunset-riders.git
+   git clone https://github.com/ramAdam/rlib-c---template.git
    ```
 2. Execute build script:
    ```bash
